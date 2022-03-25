@@ -1,6 +1,7 @@
 ## Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
+#Dashboard
+[![Dashboard](https://raw.githubusercontent.com/minlin-ml/sales-insight-tableau/main/Dashboard.png)](https://prod-ca-a.online.tableau.com/t/minlin/views/SalesInsightsPhase1/Dashboard1/53d03169-d868-4182-aa10-a9347f8ea4ad/ff7550e3-ab51-4843-8351-a12d77d1a840?:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
 [Source](https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL&index=1)
 
